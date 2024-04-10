@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ¿Qué lenguaje utiliza Nodejs?
+=======
+a. ¿Qué lenguaje se utiliza en Nodejs?
+>>>>>>> Stashed changes
