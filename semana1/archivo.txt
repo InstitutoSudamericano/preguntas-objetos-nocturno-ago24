@@ -1,1 +1,2 @@
 lorem helloworld
+Por que no puedo usar alert si es un  supra conjunto de js solo me admite console.log
