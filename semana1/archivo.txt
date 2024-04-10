@@ -1,1 +1,1 @@
-lorem helloworld
+lorem helloworld .js.
