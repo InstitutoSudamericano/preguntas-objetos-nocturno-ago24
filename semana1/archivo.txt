@@ -1,0 +1,2 @@
+1-¿Cuántas funciones de API existen en Node.js?
+2-¿Cuántos tipos de streams existen en Node.js?
