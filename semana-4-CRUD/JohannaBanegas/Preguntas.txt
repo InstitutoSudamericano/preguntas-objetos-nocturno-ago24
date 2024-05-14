@@ -1,0 +1,22 @@
+
+1. ¿Cuál es el principio de diseño fundamental detrás del enfoque de Nest.js para la modularidad y la reutilización de código? [4]
+
+   A. Principio de Inyección de Dependencias
+   B. Principio de Responsabilidad Única
+   C. Principio de Abierto/Cerrado
+   
+   ANSWER: A
+
+2. ¿Qué estrategia de Nest.js se utiliza para definir y manejar las relaciones entre diferentes entidades de base de datos? [4]
+   A. Middleware de Relaciones
+   B. Asociaciones de Base de Datos
+   C. Decoradores de Entidad
+   
+   ANSWER: C
+
+3. ¿Cuál es el enfoque recomendado en Nest.js para la validación de datos en las operaciones CRUD? [4]
+   A. Validación en el Controlador
+   B. Validación en la Base de Datos
+   C. Validación en la Capa de Servicios
+   
+   ANSWER: C
