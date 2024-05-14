@@ -1,0 +1,22 @@
+1. En NestJS, ¿qué componente se encarga de manejar las solicitudes HTTP y la lógica de negocio asociada a las operaciones CRUD?
+A. Repositorios 
+B. Controladores 
+C. Módulos D. Servicios
+
+Respuesta: B.
+
+2. ¿Cuál de las siguientes técnicas de inyección de dependencias se utiliza comúnmente en NestJS para proporcionar acceso a los servicios desde los controladores?
+A. Inyección de constructor 
+B. Inyección de método 
+C. Inyección de propiedad 
+D. Todas las anteriores
+
+Respuesta: A.
+
+3. ¿Qué herramienta o biblioteca facilita la creación de repositorios en NestJS y abstrae el acceso a la base de datos?
+A. TypeORM 
+B. Prisma 
+C. Knex.js 
+D. Sequelize
+
+Respuesta: A.
