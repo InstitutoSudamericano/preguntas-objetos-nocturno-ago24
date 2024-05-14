@@ -1,0 +1,23 @@
+¿Cuál es el propósito de la modificación en el archivo main?ts en el proyecto Nestjs?
+
+A. Añadir una nueva funcionalidad al servidor de Nestjs.
+B. Configurar el puerto de escucha del servidor de Nestjs.
+C. Eliminar una funcionalidad obsoleta del servidor de Nestjs.
+
+ANSWER: B
+
+¿Qué se recomienda hacer si no se tiene una base de datos para el proyecto de Nestjs en Railway?
+
+A. Crear una nueva base de datos desde cero.
+B. Enlazar el proyecto de Nestjs con una base de datos externa.
+C. Proceder con el despliegue sin configurar ninguna base de datos.
+
+ANSWER: C
+
+¿Por qué es importante verificar que el proyecto esté sin errores en los logs de Railway después del despliegue?
+
+A. Para asegurar que el proyecto esté protegido contra ataques cibernéticos.
+B. Para garantizar un funcionamiento adecuado y estable del proyecto en producción.
+C. Para cumplir con los requisitos de seguridad de la plataforma Railway.
+
+ANSWER: B
