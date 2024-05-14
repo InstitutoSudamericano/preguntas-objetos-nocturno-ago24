@@ -1,0 +1,17 @@
+¿Qué es NestJS?
+A. Un lenguaje de programación.
+B. Un framework de Node.js.
+C. Una base de datos relacional.
+ANSWER: B
+
+¿Cuál de las siguientes opciones describe mejor la arquitectura de NestJS?
+A. Arquitectura MVC (Modelo-Vista-Controlador).
+B. Arquitectura REST (Transferencia de Estado Representacional).
+C. Arquitectura de microservicios.
+ANSWER: B
+
+¿Qué lenguaje se utiliza principalmente para escribir aplicaciones en NestJS?
+A. TypeScript.
+B. Java.
+C. Python.
+ANSWER: A
