@@ -1,0 +1,21 @@
+PREGUNTAS ACERCA DE DEPLOYMENT
+
+1. Que es el deployment en el contexto de desarrollo de software?
+   a La fase de diseño de la interfaz de usuario.
+   b La implementacion de software en un entorno operativo.
+   c La etapa de planificacion del proyecto.
+
+ANSWER: b La implementacion de software en un entorno operativo.
+
+2. Cual de las siguientes opciones describe mejor el objetivo principal del deployment continuo?
+   a Reducir el numero de desarrolladores en un equipo.
+   b Acelerar el tiempo entre el desarrollo y la disponibilidad del producto para los usuarios.
+   c Limitar la accesibilidad del software a un numero reducido de usuarios.
+
+ANSWER: b Acelerar el tiempo entre el desarrollo y la disponibilidad del producto para los usuarios.
+
+3. Cual de las siguientes herramientas es comunmente utilizada para automatizar el proceso de deployment?
+   a Photoshop.
+   b Microsoft Excel.
+   c Docker.
+ANSWER:  c Docker.
