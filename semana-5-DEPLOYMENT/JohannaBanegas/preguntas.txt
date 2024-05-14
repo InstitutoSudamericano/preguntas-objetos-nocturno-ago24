@@ -1,0 +1,17 @@
+¿Cuál de las siguientes estrategias de despliegue implica la liberación de nuevas versiones del software de manera incremental, con cada nueva versión construida sobre la anterior?[5]
+A. Despliegue gradual
+B. Despliegue en cascada
+C. Despliegue continuo
+Answer: A
+
+¿Qué técnica de despliegue se caracteriza por dividir el tráfico entre la versión actual y la nueva versión del software para evaluar el rendimiento y la estabilidad antes de migrar completamente?[5]
+A. Despliegue azul/verde
+B. Despliegue canario
+C. Despliegue gradual
+Answer: B
+
+¿Qué ventaja ofrece el despliegue continuo sobre el despliegue regular?[5]
+A. Permite realizar despliegues manuales en momentos específicos
+B. Automatiza completamente el proceso de despliegue
+C. Requiere menos pruebas de calidad
+Answer: B
