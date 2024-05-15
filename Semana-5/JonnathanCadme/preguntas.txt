@@ -1,0 +1,20 @@
+¿Cuál es el objetivo principal del despliegue de software?[5]
+A. Automatizar el proceso de desarrollo.
+B. Hacer que el código fuente sea más legible.
+C. Poner en funcionamiento una aplicación para su uso.
+
+ANSWER: C
+
+¿Qué es el despliegue manual en el contexto del desarrollo de software?
+A. La implementación de cambios de software de forma manual por parte de un operador.
+B. Un proceso automatizado de implementación de software.
+C. Una estrategia para realizar despliegues continuos de software.
+
+ANSWER: A
+
+¿Qué se entiende por despliegue continuo en el desarrollo de software?
+A. Realizar implementaciones manuales en momentos específicos.
+B. Automatizar el proceso de despliegue para realizar implementaciones frecuentes y automáticas.
+C. Revertir una implementación a una versión anterior en caso de problemas.
+
+ANSWER: B
