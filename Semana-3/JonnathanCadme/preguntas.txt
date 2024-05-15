@@ -1,0 +1,20 @@
+¿Cuál es la función principal de una migración en el contexto de un ORM como Prisma o TypeORM? [3]
+A. Cambiar el tipo de datos de una columna en la base de datos.
+B. Mantener un registro de los cambios en el esquema de la base de datos.
+C. Establecer una conexión entre la aplicación y la base de datos.
+
+ANSWER: B
+
+¿Cuál es el propósito principal de un ORM (Mapeador Objeto-Relacional)?
+A. Facilitar la gestión de bases de datos relacionales.
+B. Proporcionar una interfaz gráfica para el desarrollo de aplicaciones web.
+C. Abstraer la lógica de acceso a datos para simplificar el desarrollo de aplicaciones.
+
+ANSWER: C
+
+¿Qué es TypeORM?
+A. Una herramienta para construir y administrar bases de datos de forma gráfica.
+B. Una biblioteca de código abierto para el mapeo objeto-relacional en aplicaciones TypeScript y JavaScript.
+C. Un servicio en la nube para el despliegue automatizado de aplicaciones web.
+
+ANSWER: B

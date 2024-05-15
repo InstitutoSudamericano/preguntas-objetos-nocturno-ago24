@@ -1,0 +1,20 @@
+¿Qué función cumplen los interceptores en Nest.js?[2]
+A. Proporcionan una forma de modificar la solicitud o respuesta HTTP entrante o saliente en una aplicación Nest.js.
+B. Son encargados de gestionar la seguridad en la comunicación entre el cliente y el servidor.
+C. Ayudan a estructurar y modularizar el manejo de solicitudes HTTP en una aplicación web.
+
+ANSWER: A
+
+¿Cuál es el propósito principal de los módulos en Nest.js?
+A. Definir la estructura de la base de datos de la aplicación.
+B. Organizar y encapsular componentes relacionados de la aplicación, como controladores y servicios.
+C. Gestionar la autenticación y la autorización de usuarios en la aplicación.
+
+ANSWER: B
+
+¿Cuál es el papel de los proveedores en la arquitectura de Nest.js?
+A. Son responsables de establecer la conexión con la base de datos de la aplicación.
+B. Definen servicios y otros objetos que pueden ser inyectados por el sistema de inyección de dependencias.
+C. Proporcionan una capa de seguridad adicional en la comunicación entre el cliente y el servidor.
+
+ANSWER: B
